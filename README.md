@@ -10,5 +10,4 @@ This is a simple SpaceShooter WebGL game made in unity.
 * A - Move Left
 * S - Move Down
 * D - Move Right 
-* Fire - Left Click or CTRL 
-
+* Fire - Left Click
